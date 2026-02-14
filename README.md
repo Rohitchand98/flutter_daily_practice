@@ -9,6 +9,6 @@ This repo contains my daily Flutter UI practice.
 -  Day 04: TextField demo
 -  Day 05: Expand widget Demo
 -  Day 06: Instaloginclone Demo
--  Day 07:
+-  Day 07: Login page demo
 -  Day 08:
 -  Day 09:
