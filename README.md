@@ -12,7 +12,7 @@ This repo contains my daily Flutter UI practice.
 -  Day 07: Login page demo
 -  Day 08: Riverpod demo for Data Manipulation
 -  Day 09: Ziion First Page Ui
--  Day 10:
+-  Day 10: Multiple text in Single UI
 -  Day 11:
 -  Day 12:
 -  Day 13:
