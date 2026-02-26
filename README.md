@@ -14,6 +14,6 @@ This repo contains my daily Flutter UI practice.
 -  Day 09: Ziion First Page Ui
 -  Day 10: Multiple text in Single UI
 -  Day 11: Listview of an App
--  Day 12:
+-  Day 12: how to call API for resourse demo
 -  Day 13:
 
